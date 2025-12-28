@@ -41,7 +41,7 @@ PY_for_ML_tut/
 ├── 6-File Handling/
 ├── 7-Exception Handling/
 ├── 8-Class And Objects/
-├── 9-Advanced Python Concepts/
+├── 9-Advance Python Concepts/
 ├── 10-Data Analysis With Python/
 ├── 11-Working With Databases/
 ├── 12-Logging In Python/
