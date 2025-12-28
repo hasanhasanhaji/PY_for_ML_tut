@@ -32,3 +32,21 @@ The content is suitable for:
 
 ## 📂 Repository Structure
 
+PY_for_ML_tut/
+├── 1-Python Basics/
+├── 2-Control Flow/
+├── 3-Data Structures/
+├── 4-Functions/
+├── 5-Modules/
+├── 6-File Handling/
+├── 7-Exception Handling/
+├── 8-Class And Objects/
+├── 9-Advanced Python Concepts/
+├── 10-Data Analysis With Python/
+├── 11-Working With Databases/
+├── 12-Logging In Python/
+├── .gitignore
+├── LICENSE
+└── README.md
+
+
