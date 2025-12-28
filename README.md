@@ -107,10 +107,12 @@ pip install -r requirements.txt
 
 ---
 
+
 ## ▶️ Getting Started
 
-Start from the **1-Python Basics** folder and continue sequentially.  
+Start from the `1-Python Basics` folder and continue sequentially.  
 Run the examples using your preferred environment, such as:
+
 - **VS Code**
 - **Jupyter Notebook**
 - **Google Colab**
@@ -120,6 +122,7 @@ Run the examples using your preferred environment, such as:
 ## 🤖 Using These Skills for Machine Learning
 
 After completing this tutorial, you'll be ready to work with essential ML libraries such as:
+
 - **NumPy**
 - **Pandas**
 - **Matplotlib**
@@ -131,6 +134,7 @@ After completing this tutorial, you'll be ready to work with essential ML librar
 
 Contributions are welcome!  
 To contribute:
+
 1. Fork the repository
 2. Create a new branch
 3. Commit your changes
@@ -142,5 +146,4 @@ To contribute:
 
 This project is licensed under the **MIT License**.
 
-⭐ If you find this repository useful, consi
-
+⭐ If you find this repository useful, consider giving it a star!
