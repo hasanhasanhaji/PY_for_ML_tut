@@ -104,46 +104,5 @@ python -m venv venv
 source venv/bin/activate   # Linux / macOS
 venv\Scripts\activate      # Windows
 pip install -r requirements.txt
-▶️ Getting Started
-
-Start from the 1-Python Basics folder and continue sequentially.
-Run the examples using your preferred environment, such as:
-
-VS Code
-
-Jupyter Notebook
-
-Google Colab
-
-🤖 Using These Skills for Machine Learning
-
-After completing this tutorial, you'll be ready to work with essential ML libraries such as:
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-Scikit-learn
-
-🤝 Contributing
-
-Contributions are welcome!
-To contribute:
-
-Fork the repository
-
-Create a new branch
-
-Commit your changes
-
-Submit a pull request
-
-📄 License
-
-This project is licensed under the MIT License.
-
-⭐ If you find this repository useful, consider giving it a star!
 
 
